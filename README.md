@@ -43,3 +43,5 @@ no test dir found testing here: /Andela/Bootcamp/Day3/AndeLabs/missing_number
 Ran 3 test cases in 0.00s (0.00s CPU)
 All 1 modules OK
 ```
+##  HTML CSS Website
+Check out an awesome github website done in pure HTML and CSS [here](https://natenjuguna.github.io/andela_D3/)
