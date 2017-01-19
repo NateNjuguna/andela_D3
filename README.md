@@ -2,7 +2,7 @@
 Clone the repo using the link above
 ##  AndeLabs
 ### Binary Search
-Run the tests defined on AndeLabs. Test for word_count is saved as `test_word.py`
+Run the tests defined on AndeLabs. Test for word_count is saved as `test_b_search.py`
 ```bash
 $ cd AndeLabs/binary_search
 AndeLabs/binary_search$ pytest
@@ -31,3 +31,15 @@ Ran 6 test cases in 0.00s (0.00s CPU), 1 failures
 failures: /AndeLabs/binary_search/test_b_search [1/6]
 ```
 I encountered this error no matter what I tried but I suspect the test had an issue that was not corrected in time
+### Missing Mumber
+Run the tests defined on AndeLabs. Test for word_count is saved as `test_missing_no.py`
+```bash
+$ cd AndeLabs/missing_number
+AndeLabs/missing_number$ pytest
+no test dir found testing here: /Andela/Bootcamp/Day3/AndeLabs/missing_number
+========================  test_missing_no.py  ========================
+...
+*******************************************************************************
+Ran 3 test cases in 0.00s (0.00s CPU)
+All 1 modules OK
+```
