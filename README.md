@@ -1,2 +1,3 @@
-# andela_D3
-Andela Day 3 Bootcamp Git Activity
+#   Day 3 of Andela Bootcamp XIV
+Clone the repo using the link above
+
